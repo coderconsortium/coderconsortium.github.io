@@ -5,7 +5,7 @@ date: "2014-06-28 16:43"
 author: Steve Holmes
 categories: [Meetings, Scala, JVM Languages, Parser Combinators]
 comments: true
-published: false
+published: true
 ---
 
 Parser Combinators in Scala
