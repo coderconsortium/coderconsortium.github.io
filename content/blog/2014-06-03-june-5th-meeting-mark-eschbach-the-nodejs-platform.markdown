@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "June 5th Meeting - Mark Eschbach - The NodeJS Platform"
+title: "June 5th Meeting: Mark Eschbach - The NodeJS Platform"
 date: "2014-06-03 15:50"
 author:
 categories: []
