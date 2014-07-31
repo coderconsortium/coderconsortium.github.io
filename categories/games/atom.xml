@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Coder Consortium]]></title><link href="http://www.coderconsortium.com/categories/games/atom.xml" rel="self"/><link href="http://www.coderconsortium.com/"/><updated>2014-06-03T16:32:33-07:00</updated><id>http://www.coderconsortium.com/</id><author><name><![CDATA[Steve Holmes]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[August 7th Meetup: Trystan Spangler - Seeking Clojure]]></title><link href="http://www.coderconsortium.com/blog/2014/07/30/august-7th-meetup-trystan-spangler-seeking-clojure/"/><updated>2014-07-30T21:24:17-07:00</updated><id>/blog/2014/07/30/august-7th-meetup-trystan-spangler-seeking-clojure/</id><content type="html"><![CDATA[<p>Seeking Clojure</p>
+<p>Hey Coders,</p>
+<p>Finally your chance to get see what Clojure is all about!  Trystan Spangler will be giving a presentation that will show you:</p>
+<ul>
+<li>How you can integrate Clojure with existing java code.</li>
+<li>How you can use Multi Methods and Macros to be a Clojure Ninja.</li>
+<li>How you can edit running Clojure code.</li>
+<li>How you can model adding, removing and changing over time with immutable data.</li>
+</ul>
+<p>Plus you will see how Trystan built an asteroids game in Clojure.</p>
+<p>Hope to see you all there!</p>
+]]></content></entry></feed>
