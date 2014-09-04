@@ -5,7 +5,7 @@ date: "2014-09-04 12:32"
 author:
 categories: [Coder Consortium, Clojure, Web Application, Web Framework, Alternative JVM language]
 comments: true
-published: false
+published: true
 ---
 
 Hi All!
