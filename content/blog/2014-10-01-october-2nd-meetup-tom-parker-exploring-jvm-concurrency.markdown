@@ -1,10 +1,11 @@
---- layout: post
+--- 
+layout: post
 title: "October 2nd Meetup: Tom Parker - Exploring JVM Concurrency"
 date: "2014-10-01 20:22"
-author:
+author: Steve Holmes
 categories: [JVM, Concurrency, Scala, Groovy, Clojure, Java, JRuby]
 comments: true
-published: false
+published: true
 ---
 
 Hey Consorters!
