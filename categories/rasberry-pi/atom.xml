@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Coder Consortium]]></title><link href="http://www.coderconsortium.com/categories/rasberry-pi/atom.xml" rel="self"/><link href="http://www.coderconsortium.com/"/><updated>2014-12-04T13:31:33-08:00</updated><id>http://www.coderconsortium.com/</id><author><name><![CDATA[Steve Holmes]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[December 4th Meetup]]></title><link href="http://www.coderconsortium.com/blog/2014/12/04/december-4th-meetup/"/><updated>2014-12-04T14:09:58-08:00</updated><id>/blog/2014/12/04/december-4th-meetup/</id><content type="html"><![CDATA[<h2>Corey Minter</h2>
+<h3>Intro to the Intel Edison module &amp; Intel Galileo board</h3>
+<p>The Intel Galileo board is an Arduino-certified development board (and more).  The Intel Edison module is a small general purpose system with many built in features including (WiFi, Bluetooth, and lots of RAM and flash storage).  Both are based on Intel architecture and run a Linux based OS.</p>
+<p>We'll discuss and demo:</p>
+<pre><code>- what these devices are and what can they do.
+- how to get started.
+- using the Arduino environment.
+- other interesting software tools (Java/Scala, Node.js, ...)
+</code></pre>
+<p>Sorry about the last mine post.  I suck. - Steve</p>
+]]></content></entry></feed>
