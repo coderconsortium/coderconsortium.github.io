@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Coder Consortium]]></title><link href="http://www.coderconsortium.com/atom.xml" rel="self"/><link href="http://www.coderconsortium.com/"/><updated>2014-12-04T14:09:58-08:00</updated><id>http://www.coderconsortium.com/</id><author><name><![CDATA[Steve Holmes]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[December 4th Meetup]]></title><link href="http://www.coderconsortium.com/blog/2014/12/04/december-4th-meetup/"/><updated>2014-12-04T14:09:58-08:00</updated><id>/blog/2014/12/04/december-4th-meetup/</id><content type="html"><![CDATA[<h2>Corey Minter</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Coder Consortium]]></title><link href="http://www.coderconsortium.com/atom.xml" rel="self"/><link href="http://www.coderconsortium.com/"/><updated>2015-01-20T09:17:33-08:00</updated><id>http://www.coderconsortium.com/</id><author><name><![CDATA[Steve Holmes]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[February 5th Meetup - 10 Languages in 10 minutes (each)]]></title><link href="http://www.coderconsortium.com/blog/2015/01/20/february-5th-meetup-10-languages-in-10-minutes-each/"/><updated>2015-01-20T09:17:33-08:00</updated><id>/blog/2015/01/20/february-5th-meetup-10-languages-in-10-minutes-each/</id><content type="html"><![CDATA[<h3>10 Languages in 10 Minutes</h3>
+<p>Come one and all to the First in the 2015 Neophyte talks. Our Neophyte talks are meant for new Coder Consortium members while still appealing to crusty old-timer professionals like me. 10 languages in 10 minutes (each) will have a panel of Super-Star-Programmer-Ninja-Pirates each giving a talk on a different programming language. Here are the proposed languages:</p>
+<p>Python
+Ruby
+JavaScript
+Lisp
+C#
+Java
+Groovy
+Scala
+Kotlin
+Scratch</p>
+<p>There will be free Food provided by Tek Systems, Book and eBook raffles, and even a $200 license to Intellij Idea raffle provided by Jetbrains. Everything a Neophyte needs to get started.</p>
+<p>Hope to see you all there!﻿</p>
+]]></content></entry><entry><title type="html"><![CDATA[December 4th Meetup]]></title><link href="http://www.coderconsortium.com/blog/2014/12/04/december-4th-meetup/"/><updated>2014-12-04T14:09:58-08:00</updated><id>/blog/2014/12/04/december-4th-meetup/</id><content type="html"><![CDATA[<h2>Corey Minter</h2>
 <h3>Intro to the Intel Edison module &amp; Intel Galileo board</h3>
 <p>The Intel Galileo board is an Arduino-certified development board (and more).  The Intel Edison module is a small general purpose system with many built in features including (WiFi, Bluetooth, and lots of RAM and flash storage).  Both are based on Intel architecture and run a Linux based OS.</p>
 <p>We'll discuss and demo:</p>

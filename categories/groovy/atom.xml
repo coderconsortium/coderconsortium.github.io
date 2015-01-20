@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Coder Consortium]]></title><link href="http://www.coderconsortium.com/categories/groovy/atom.xml" rel="self"/><link href="http://www.coderconsortium.com/"/><updated>2014-12-04T13:31:33-08:00</updated><id>http://www.coderconsortium.com/</id><author><name><![CDATA[Steve Holmes]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[October 2nd Meetup: Tom Parker - Exploring JVM Concurrency]]></title><link href="http://www.coderconsortium.com/blog/2014/10/01/october-2nd-meetup-tom-parker-exploring-jvm-concurrency/"/><updated>2014-12-04T13:31:33-08:00</updated><id>/blog/2014/10/01/october-2nd-meetup-tom-parker-exploring-jvm-concurrency/</id><content type="html"><![CDATA[<p>Hey Consorters!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Coder Consortium]]></title><link href="http://www.coderconsortium.com/categories/groovy/atom.xml" rel="self"/><link href="http://www.coderconsortium.com/"/><updated>2014-12-04T13:31:33-08:00</updated><id>http://www.coderconsortium.com/</id><author><name><![CDATA[Steve Holmes]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[February 5th Meetup - 10 Languages in 10 minutes (each)]]></title><link href="http://www.coderconsortium.com/blog/2015/01/20/february-5th-meetup-10-languages-in-10-minutes-each/"/><updated>2015-01-20T09:17:33-08:00</updated><id>/blog/2015/01/20/february-5th-meetup-10-languages-in-10-minutes-each/</id><content type="html"><![CDATA[<h3>10 Languages in 10 Minutes</h3>
+<p>Come one and all to the First in the 2015 Neophyte talks. Our Neophyte talks are meant for new Coder Consortium members while still appealing to crusty old-timer professionals like me. 10 languages in 10 minutes (each) will have a panel of Super-Star-Programmer-Ninja-Pirates each giving a talk on a different programming language. Here are the proposed languages:</p>
+<p>Python
+Ruby
+JavaScript
+Lisp
+C#
+Java
+Groovy
+Scala
+Kotlin
+Scratch</p>
+<p>There will be free Food provided by Tek Systems, Book and eBook raffles, and even a $200 license to Intellij Idea raffle provided by Jetbrains. Everything a Neophyte needs to get started.</p>
+<p>Hope to see you all there!﻿</p>
+]]></content></entry><entry><title type="html"><![CDATA[October 2nd Meetup: Tom Parker - Exploring JVM Concurrency]]></title><link href="http://www.coderconsortium.com/blog/2014/10/01/october-2nd-meetup-tom-parker-exploring-jvm-concurrency/"/><updated>2014-12-04T13:31:33-08:00</updated><id>/blog/2014/10/01/october-2nd-meetup-tom-parker-exploring-jvm-concurrency/</id><content type="html"><![CDATA[<p>Hey Consorters!</p>
 <p>The Great Tom Parker will be giving a talk on exploring concurrency issues and options in java and JVM languages. How STM and actors can ease the pain. Code samples include Java, Clojure, Groovy, Scala, and maybe even jRuby.</p>
 <p>Hope to see you all there!</p>
 ]]></content></entry></feed>
