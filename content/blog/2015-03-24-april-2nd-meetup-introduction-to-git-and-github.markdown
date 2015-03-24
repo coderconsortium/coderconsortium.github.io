@@ -3,9 +3,9 @@ layout: post
 title: "April 2nd Meetup - Introduction to Git and Github"
 date: "2015-03-24 13:08"
 author:
-categories: []
+categories: [git, github, version control, vcs]
 comments: true
-published: false
+published: true
 ---
 
 ## An Introduction to Git and Github ##
