@@ -72,7 +72,7 @@ deploy = github_pages_deploy_cmd
 
 // General settings.
 title = 'Coder Consortium' // blog name for the header, title and RSS feed
-subtitle = 'The Coder Consortium Advanced Software Development Group of Sacramento' // blog brief description for the header
+subtitle = 'Software Engineering Enthusiast Group of Sacramento' // blog brief description for the header
 author = 'Steve Holmes'                 // author name for Copyright, Metadata and RSS feed
 meta_description = ''               // blog description for Metadata
 
