@@ -5,7 +5,7 @@ date: "2015-08-31 08:26"
 author:
 categories: ['python', 'programming', 'neophyte']
 comments: true
-published: false
+published: true
 ---
 
 Welcome back Consorters!
